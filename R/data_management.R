@@ -14,12 +14,12 @@ library(magrittr)
 library(readr)
 
 # Load data
-pulses21 <- read_csv(here::here("data/pulses21.csv"))
+pulses21 <- readr::read_csv(here::here("data/pulses21.csv"))
 
 # convert variables to integers
-# Extract column names that start with "q1", "q2", and "q3"
+# Extract column names that start with "q1", "q2", "q3"...
 char_var_names <- colnames(pulses21)[
-  grepl("^q_1|^q_2|^q_3|^q_4|^q_5|^q_6|^q_7|^q_8|^q_9", colnames(pulses21))]
+  grepl("^q_1|^q_2|^q_3|^q_4", colnames(pulses21))]
 # Convert to integers
 pulses21 <- pulses21 %>%
   mutate(across(all_of(char_var_names), as.integer))
