@@ -9,7 +9,9 @@ Analyses for this project are run in the following order:
 
 /R/analyses.R **This script contains code for descriptive analyses and logistic regression analyses**
 
-/R/factor_analysis.R **This script contains code for factor analyses with varimax rotations**
+factor_analysis_pulses21.Rmd **This markdown contains code for factor analyses with varimax rotations**
+
+factor_analysis_pulses21.html **This html contains output from factor analyses with varimax rotations**
 
 
 The /doc/ folder contains output from analyses including result tables, figures, graphs, etc. and a markdown describing the process of conducting factor analyses for heavy and light consumers of pulses.
