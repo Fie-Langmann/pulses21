@@ -1,0 +1,31 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: pulses21
+message: ' If you use content from this repository, please cite it using the metadata'
+type: dataset
+authors:
+  - given-names: Fie
+    family-names: Langmann
+    email: fielangmann@gmail.com
+    affiliation: 'Aarhus University, Department of Public Health'
+    orcid: 'https://orcid.org/0000-0003-3474-9346'
+  - given-names: Glenn Birksø Hjorth
+    family-names: Andersen
+    email: gha@food.au.dk
+    affiliation: 'Aarhus University, Department of Food Science'
+    orcid: 'https://orcid.org/0000-0002-7698-1146'
+identifiers:
+  - type: url
+    value: 'https://github.com/Fie-Langmann/pulses21'
+    description: GitHub repository
+repository-code: 'https://github.com/Fie-Langmann/pulses21'
+abstract: >-
+  This project investigates barriers and drivers for pulse
+  consumption and the intentions to increase future pulses
+  intake through a survey among 596 Danes conducted in 2021.
+license: CC-BY-4.0
+commit: '4273309'
+version: '1.0'
+date-released: '2024-12-16'
