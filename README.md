@@ -13,5 +13,5 @@ factor_analysis_pulses21.Rmd **This markdown contains code for factor analyses w
 
 factor_analysis_pulses21.html **This html contains output from factor analyses with varimax rotations**
 
-
 The /doc/ folder contains output from analyses including result tables, figures, graphs, etc. 
+
