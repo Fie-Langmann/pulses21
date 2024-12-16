@@ -2,7 +2,7 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: pulses21
+title: Analytical code for pulses21
 message: ' If you use content from this repository, please cite it using the metadata'
 type: dataset
 authors:
