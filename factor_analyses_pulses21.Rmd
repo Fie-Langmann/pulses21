@@ -55,8 +55,10 @@ colnames(light_dri) <- labels_Q30
 
 ## FA on tetrachoric correlations
 
--   Numbers of factor determined with screeplot. Factor should explain more than one variable (eigenvalue \> 1)
--   Factor analysis with minimum residual for extraction and Varimax for rotation.
+-   Numbers of factor determined with screeplot. Factor should explain
+    more than one variable (eigenvalue \> 1)
+-   Factor analysis with minimum residual for extraction and Varimax for
+    rotation.
 -   Explained variance of total variance in
 
 ### Drivers
@@ -136,8 +138,10 @@ ggplot(loadings_melted, aes(x = Variable, y = abs(Loading), fill = Loading)) +
 
 ## FA on tetrachoric correlations
 
--   Numbers of factor determined with screeplot. Factor should explain more than one variable (eigenvalue \> 1)
--   Factor analysis with minimum residual for extraction and Variamx for rotation.
+-   Numbers of factor determined with screeplot. Factor should explain
+    more than one variable (eigenvalue \> 1)
+-   Factor analysis with minimum residual for extraction and Variamx for
+    rotation.
 -   Explained variance of total variance in
 
 ### Drivers
