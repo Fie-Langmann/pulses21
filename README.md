@@ -1,4 +1,4 @@
-# pulses21: Barriers and drives for increasing future pulse consumption from a heavy and light consumers perspective in Denmark
+# pulses21: Barriers and drivers for increasing future pulse consumption from a heavy and light consumers perspective in Denmark
 This project investigates barriers and drivers for pulse consumption and the intentions to increase future pulses intake through a survey among 596 Danes conducted in 2021.
 
 Analyses for this project are run in the following order:
