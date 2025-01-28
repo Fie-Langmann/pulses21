@@ -13,7 +13,7 @@ output: html_document
 
 ## This markdown includes code and output for factor analyses
 
-The factor analysis relates to this article: *Article name here, doi:*
+The factor analysis relates to this article: *Barriers and drives for increasing future pulse consumption from frequent and infrequent consumers’ perspectives in Denmark*
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE,warning = FALSE,message = FALSE)
