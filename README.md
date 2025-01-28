@@ -9,9 +9,12 @@ Analyses for this project are run in the following order:
 
 /R/analyses.R **This script contains code for descriptive analyses and logistic regression analyses**
 
+Output from analyses include: 
+
 factor_analysis_pulses21.Rmd **This markdown contains code for factor analyses with varimax rotations**
 
 factor_analysis_pulses21.html **This html contains output from factor analyses with varimax rotations**
 
-The /doc/ folder contains output from analyses including result tables, figures, graphs, etc. 
+Pulses 2021 - drivers and barriers.pdf **This pdf contains output from factor analyses in a .pdf format**
 
+Due to personally identifiable information, the data set will not be shared publicly.
